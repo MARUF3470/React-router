@@ -1,0 +1,14 @@
+.header a {
+    text-decoration: none;
+    margin: 50px;
+    font-size: larger;
+    color: black;
+}
+
+.header a:hover {
+    color: aquamarine;
+}
+
+.active {
+    background-color: orange;
+}
